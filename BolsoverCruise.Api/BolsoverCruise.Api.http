@@ -1,0 +1,6 @@
+@BolsoverCruise.Api_HostAddress = http://localhost:5155
+
+GET {{BolsoverCruise.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
